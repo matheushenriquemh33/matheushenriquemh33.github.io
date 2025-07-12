@@ -1,5 +1,5 @@
 body {
-    background-color: rgba(53, 121, 199, 0.822);
+    background-color: rgb(25, 106, 255);
     margin: 0;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
@@ -21,4 +21,11 @@ body {
     width: 300px;
     height: auto;
     border-radius: 8px 
+}
+.infos{
+    flex: 2;
+    padding: 60;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
