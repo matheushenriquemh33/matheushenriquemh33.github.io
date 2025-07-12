@@ -58,7 +58,7 @@ body {
     margin-top: 1.4rem;
 }
 
-.socil a {
+.social a {
     display: grid;
     place-items: center;
     text-decoration: none;
