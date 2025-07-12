@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(31, 184, 255);
     margin: 0;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
@@ -11,7 +11,7 @@ body {
 
 .foto {
     flex: 1;
-    background-color: rgb(94, 201, 201);
+    background-color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
     justify-content: center;
